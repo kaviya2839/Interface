@@ -20,6 +20,9 @@ Step 6: After performing the functions display the remaining balance of the use.
 
 ## Program:
 ```
+NAME : KAVIYA SHREE S
+Reg.No: 212222110018
+
 using System;
 public interface Bank
 {
